@@ -1,0 +1,9 @@
+{
+  "name": "relay-messaging-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Independent Telegram-inspired messaging app starter",
+  "main": "server.js",
+  "scripts": {"start": "node server.js", "test": "node --test"},
+  "engines": {"node": ">=20"}
+}
